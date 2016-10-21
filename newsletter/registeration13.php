@@ -1,0 +1,1 @@
+<?php $message .= '<p>werwerwer<img src="http://192.168.1.253/fancyclone/uploaded/Koala.jpg" alt="" width="1024" height="768" /></p>';  ?>

@@ -1,0 +1,19 @@
+Installation Guide :
+-------------------
+1. Unzip the installation file package.
+2. Enter into your hosting and configure the database settings and passwords.
+3. Upload the database into your server. Database file is present inside the _db folder
+4. Open the databaseValues.php file from the main folder after you extract the zip file.
+5. Give the host name, database user name, database password, database name respectively. please configure the settings in your server and check.
+6. Open the link in the browser. For example http://domainname/newfile.php.
+7. Open the link in the browser. For example http://domainname/admin.
+8. Login into the admin panel. Default user name admin and password is admin.
+9. Click the Admin -> Settings. Or else paste the text next to your domain url. admin/adminlogin/admin_global_settings_form
+a. Eg: http://domainname.com/admin/adminlogin/admin_global_settings_form
+10. Also update all settings like SMTP , SEO , Social Media links like facebook, twitter, google plus, Payment Gateway , Location & Tax etc.
+11. Next add some categories.
+12. Now add some products.
+13. Now logout from the admin panel and open the main site. For example: domainname.com
+14. Make images,newsletter,uploaded, fc_smtp_settings, fc_admin_action_settings to 777 permissions for all files and folders.
+15. Make application folder alone 777 and then language folders and files to 777.
+16. Thats all. You're done.

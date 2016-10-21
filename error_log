@@ -1,0 +1,42 @@
+[16-Oct-2015 06:28:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/carminet/public_html/fancy-v2/application/views/site/templates/header.php on line 272
+[16-Oct-2015 06:49:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/carminet/public_html/fancy-v2/application/views/site/templates/header.php on line 272
+[16-Oct-2015 07:11:49 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 139
+[16-Oct-2015 07:11:58 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 139
+[16-Oct-2015 07:47:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 575
+[16-Oct-2015 07:48:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 312
+[16-Oct-2015 07:48:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 312
+[16-Oct-2015 07:51:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 574
+[16-Oct-2015 11:12:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 569
+[16-Oct-2015 11:12:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 569
+[16-Oct-2015 11:12:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 569
+[16-Oct-2015 11:19:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 312
+[16-Oct-2015 11:19:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 570
+[16-Oct-2015 11:31:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 569
+[16-Oct-2015 11:34:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 312
+[16-Oct-2015 13:53:03 UTC] PHP Fatal error:  Class 'Notify_model' not found in /home/carminet/public_html/fancy-v2/system/core/Loader.php on line 303
+[16-Oct-2015 13:53:03 UTC] PHP Fatal error:  Class 'Notify_model' not found in /home/carminet/public_html/fancy-v2/system/core/Loader.php on line 303
+[16-Oct-2015 13:53:04 UTC] PHP Fatal error:  Class 'Notify_model' not found in /home/carminet/public_html/fancy-v2/system/core/Loader.php on line 303
+[16-Oct-2015 13:53:04 UTC] PHP Fatal error:  Class 'Notify_model' not found in /home/carminet/public_html/fancy-v2/system/core/Loader.php on line 303
+[18-Oct-2015 10:32:14 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:32:20 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:32:31 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:32:42 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:32:58 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:04 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:15 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:24 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:25 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:31 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:40 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 454
+[18-Oct-2015 10:33:42 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/carminet/public_html/fancy-v2/application/controllers/admin/product.php on line 10
+[20-Oct-2015 06:40:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/controllers/admin/adminlogin.php on line 395
+[20-Oct-2015 10:11:48 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/carminet/public_html/fancy-v2/application/controllers/site/product.php on line 638
+[20-Oct-2015 10:15:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/carminet/public_html/fancy-v2/application/views/site/landing/landing.php on line 264
+[20-Oct-2015 10:16:11 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/carminet/public_html/fancy-v2/application/controllers/site/product.php on line 638
+[20-Oct-2015 10:17:02 UTC] PHP Fatal error:  Call to a member function clear() on a non-object in /home/carminet/public_html/fancy-v2/application/controllers/site/product.php on line 638
+[20-Oct-2015 12:58:52 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 12
+[20-Oct-2015 13:05:21 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/carminet/public_html/fancy-v2/application/controllers/site/notify.php on line 12
+[20-Oct-2015 13:05:22 UTC] PHP Warning:  Unterminated comment starting line 390 in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 390
+[20-Oct-2015 13:05:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 396
+[20-Oct-2015 13:05:22 UTC] PHP Warning:  Unterminated comment starting line 390 in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 390
+[20-Oct-2015 13:05:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/carminet/public_html/fancy-v2/application/core/MY_Controller.php on line 396
